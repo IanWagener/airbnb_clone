@@ -6,4 +6,4 @@ The site is under construction. It is reviewed by peers at Holberton School on a
 
 The branch master stems from the collaboration with Ian, it uses Ian's server 158.69.78.227. 
 
-The branch Siphan uses the domain siphan.tech on Siphan's server 158.69.84.193.
+On the fork https://github.com/Siphan/airbnb_clone/, the branch Siphan uses the domain siphan.tech on Siphan's server 158.69.84.193.
