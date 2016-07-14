@@ -1,4 +1,4 @@
-This project is a clone of the airbnb website. 
+This project is a clone of the AirBnB website. 
 
 Contributors: Ian Wagener and Siphan Bou
 
